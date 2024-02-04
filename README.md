@@ -1,1 +1,2 @@
 # Employee-Attrition-Prediction
+Employee attrition, the departure of employees from an organization, can have significant implications for workforce management, productivity, and overall business success. To address this challenge proactively, organizations turn to data-driven approaches, leveraging tools like predictive analytics. The IBM HR Analytics dataset serves as a valuable resource for understanding and predicting employee attrition, offering a comprehensive view of various factors that may influence an employee's decision to leave a company.
